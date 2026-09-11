@@ -19,11 +19,12 @@ I continue to actively learn and gain hands-on experience.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Languages</h3>
+<h3>Languages</h3>
 
-*   Go - Native
-*   Shell - Daily driver
-*   Python - Base
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 <h3>Main Specialisation</h3>
 <p>Backend is where I focus most of my time — designing APIs, working with databases and auth, and understanding how systems fit together end-to-end. I care about writing code that's clean and easy to maintain.<br/><br/></p>
